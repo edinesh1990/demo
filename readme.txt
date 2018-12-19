@@ -7,3 +7,5 @@ Random updates to check the comparing differences
 
 Simple branching example
 This is bound to cause problem!!!
+
+Something being done to test stashing in git
