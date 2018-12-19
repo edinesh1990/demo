@@ -6,5 +6,4 @@ Updating the readme.txt file. Thank you
 Random updates to check the comparing differences
 
 Simple branching example
-
-I hope this isn't much of a problem?
+This is bound to cause problem!!!
